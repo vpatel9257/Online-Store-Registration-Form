@@ -1,0 +1,15 @@
+C:\Users\Vraj Patel\OneDrive - DePaul University\IT 330\2nd Assignment Docs\Assignment2-Vraj\obj\Debug\Assignment2-Vraj.csprojAssemblyReference.cache
+C:\Users\Vraj Patel\OneDrive - DePaul University\IT 330\2nd Assignment Docs\Assignment2-Vraj\obj\Debug\App.g.cs
+C:\Users\Vraj Patel\OneDrive - DePaul University\IT 330\2nd Assignment Docs\Assignment2-Vraj\obj\Debug\Assignment2-Vraj_MarkupCompile.cache
+C:\Users\Vraj Patel\OneDrive - DePaul University\IT 330\2nd Assignment Docs\Assignment2-Vraj\bin\Debug\Assignment2-Vraj.exe.config
+C:\Users\Vraj Patel\OneDrive - DePaul University\IT 330\2nd Assignment Docs\Assignment2-Vraj\bin\Debug\Assignment2-Vraj.exe
+C:\Users\Vraj Patel\OneDrive - DePaul University\IT 330\2nd Assignment Docs\Assignment2-Vraj\bin\Debug\Assignment2-Vraj.pdb
+C:\Users\Vraj Patel\OneDrive - DePaul University\IT 330\2nd Assignment Docs\Assignment2-Vraj\obj\Debug\MainWindow.g.cs
+C:\Users\Vraj Patel\OneDrive - DePaul University\IT 330\2nd Assignment Docs\Assignment2-Vraj\obj\Debug\Assignment2-Vraj_MarkupCompile.lref
+C:\Users\Vraj Patel\OneDrive - DePaul University\IT 330\2nd Assignment Docs\Assignment2-Vraj\obj\Debug\MainWindow.baml
+C:\Users\Vraj Patel\OneDrive - DePaul University\IT 330\2nd Assignment Docs\Assignment2-Vraj\obj\Debug\Assignment2-Vraj.g.resources
+C:\Users\Vraj Patel\OneDrive - DePaul University\IT 330\2nd Assignment Docs\Assignment2-Vraj\obj\Debug\Assignment2_Vraj.Properties.Resources.resources
+C:\Users\Vraj Patel\OneDrive - DePaul University\IT 330\2nd Assignment Docs\Assignment2-Vraj\obj\Debug\Assignment2-Vraj.csproj.GenerateResource.cache
+C:\Users\Vraj Patel\OneDrive - DePaul University\IT 330\2nd Assignment Docs\Assignment2-Vraj\obj\Debug\Assignment2-Vraj.csproj.CoreCompileInputs.cache
+C:\Users\Vraj Patel\OneDrive - DePaul University\IT 330\2nd Assignment Docs\Assignment2-Vraj\obj\Debug\Assignment2-Vraj.exe
+C:\Users\Vraj Patel\OneDrive - DePaul University\IT 330\2nd Assignment Docs\Assignment2-Vraj\obj\Debug\Assignment2-Vraj.pdb
